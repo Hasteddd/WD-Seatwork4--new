@@ -63,7 +63,7 @@ Welcome to the Valorant Hub! Immerse yourself in the world of Valorant as you ex
 
 - Featured Sections: Two sections on the landing page showcasing the Valorant and Agents. Each section includes a title, a brief description, and a button linking to the respective featured page. The buttons also have hover effects, providing a consistent user experience across the site.
 
--Footer: This section includes social media links, contact information, and any additional relevant links or information. It helps users stay connected and provides a way for them to get in touch or explore more about Valorant.
+-Footer: This section includes information. It helps users stay connected and provides a way for them to get in touch or explore more about Valorant.
 
 
 ### Technology
